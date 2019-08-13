@@ -1,4 +1,5 @@
 <template>
+<!-- 根组件 -->
   <div id="app">
     App
     <el-button type="success">成功按钮</el-button>
